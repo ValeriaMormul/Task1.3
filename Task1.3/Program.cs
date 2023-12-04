@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         // Введення цілого числа - години
-        Console.Write("13");
+        Console.Write("Введіть значення: ");
         int h = Convert.ToInt32(Console.ReadLine());
 
         // Визначення часу доби та виведення відповідного тексту
